@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am a Ph D. student currently researching learner corpora. 
-I am looking to collaborate on Register Analysis and Multi-Dimensional Analysis. 
+I am a Ph D. student in Japan interested in corpus linguistics, learner corpora, and Register Analysis.  
+I am looking to collaborate on anything and everything involving Corpus Linguistics. 
 
 
 

@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am a Ph D. student currently researching learner corpora. 
+I am looking to collaborate on Register Analysis and Multi-Dimensional Analysis. 
+
+
+
 
 <!--
 **TrevorSitler/TrevorSitler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
